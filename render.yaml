@@ -1,0 +1,36 @@
+# Render deployment blueprint.
+#
+# Commit this file, then go to https://render.com → New → Blueprint and point
+# it at your repository. Render reads this file and sets everything up.
+#
+# The important line is buildCommand: the game database is fetched during the
+# build, not at runtime. Render's free tier gives you an ephemeral filesystem
+# — anything written while the app is running disappears when the service
+# spins down. Files created during the build are baked into the image and
+# survive. So the catalogue is refreshed on every deploy, which is exactly
+# the cadence you want anyway.
+
+services:
+  - type: web
+    name: what-should-i-play
+    runtime: python
+    plan: free
+    region: frankfurt          # closest to Turkey; also: oregon, ohio, singapore
+    branch: main
+
+    buildCommand: |
+      pip install -r requirements.txt
+      python scripts/fetch_games.py --pages 50
+
+    startCommand: uvicorn app.main:app --host 0.0.0.0 --port $PORT
+
+    healthCheckPath: /api/stats
+
+    envVars:
+      - key: PYTHON_VERSION
+        value: "3.12.7"
+
+      # sync: false means "ask me for this in the dashboard, don't store it
+      # here". Never put an API key in a file you commit.
+      - key: RAWG_API_KEY
+        sync: false
