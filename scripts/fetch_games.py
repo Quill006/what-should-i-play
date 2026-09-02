@@ -118,7 +118,7 @@ def main() -> None:
     parser.add_argument(
         "--pages",
         type=int,
-        default=50,
+        default=250,
         help="Pages to fetch, 40 games each. Default 50 (~2000 games).",
     )
     parser.add_argument(
