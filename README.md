@@ -4,6 +4,7 @@ Answer six questions, get three game recommendations. Press a button, get three 
 
 No account, no tracking, no algorithm you can't read. The entire scoring logic is one file you can open and change.
 
+If you'd like to try it: https://what-should-i-play-nv92.onrender.com/
 **[Türkçe](README.tr.md)**
 
 ---
