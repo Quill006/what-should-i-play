@@ -11,7 +11,7 @@ Hesap yok, takip yok, okuyamayacağın bir algoritma yok. Puanlama mantığını
 ## Çalıştırma
 
 ```bash
-git clone https://github.com/KULLANICI_ADIN/what-should-i-play.git
+git clone https://github.com/Quill006/what-should-i-play.git
 cd what-should-i-play
 
 python -m venv .venv

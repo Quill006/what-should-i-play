@@ -11,7 +11,7 @@ No account, no tracking, no algorithm you can't read. The entire scoring logic i
 ## Run it
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/what-should-i-play.git
+git clone https://github.com/Quill006/what-should-i-play.git
 cd what-should-i-play
 
 python -m venv .venv
