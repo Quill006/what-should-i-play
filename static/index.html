@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>What should I play?</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wdth,wght@12..96,75..100,400;12..96,75..100,600;12..96,75..100,800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+
+<header class="masthead">
+  <span class="wordmark" id="wordmark">What should I play?</span>
+  <div class="langswitch" role="group" aria-label="Language">
+    <button type="button" data-lang="en" class="langbtn is-on">EN</button>
+    <button type="button" data-lang="tr" class="langbtn">TR</button>
+  </div>
+</header>
+
+<main id="stage" aria-live="polite">
+  <p class="status" id="boot">Loading…</p>
+</main>
+
+<footer class="colophon">
+  <span id="attribution">Game data from <a href="https://rawg.io" target="_blank" rel="noopener">RAWG</a>. Critic scores are Metacritic scores as published by RAWG.</span>
+</footer>
+
+<script src="/static/app.js"></script>
+</body>
+</html>

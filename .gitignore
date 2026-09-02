@@ -1,0 +1,19 @@
+# Secrets — never commit your API key
+.env
+
+# The game database is downloaded, not shipped.
+# RAWG's terms don't allow redistributing their data.
+data/
+*.db
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store

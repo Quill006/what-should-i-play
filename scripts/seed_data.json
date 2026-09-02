@@ -1,0 +1,201 @@
+[
+  {"id": 1, "slug": "the-witcher-3-wild-hunt", "name": "The Witcher 3: Wild Hunt", "released": "2015-05-18", "metacritic": 92, "playtime": 46, "rating": 4.66, "ratings_count": 6800, "image": null, "url": null,
+   "platforms": ["PC", "PlayStation 5", "PlayStation 4", "Xbox Series S/X", "Xbox One", "Nintendo Switch", "macOS"],
+   "genres": ["Action", "RPG"],
+   "tags": ["singleplayer", "story-rich", "open-world", "atmospheric", "rpg", "fantasy", "exploration", "third-person", "choices-matter", "great-soundtrack"]},
+
+  {"id": 2, "slug": "stardew-valley", "name": "Stardew Valley", "released": "2016-02-26", "metacritic": 89, "playtime": 40, "rating": 4.42, "ratings_count": 3100, "image": null, "url": null,
+   "platforms": ["PC", "PlayStation 4", "Xbox One", "Nintendo Switch", "iOS", "Android", "macOS", "Linux"],
+   "genres": ["Simulation", "RPG", "Indie"],
+   "tags": ["relaxing", "cozy", "farming", "pixel-graphics", "co-op", "online-co-op", "sandbox", "management", "singleplayer", "casual"]},
+
+  {"id": 3, "slug": "hades", "name": "Hades", "released": "2020-09-17", "metacritic": 93, "playtime": 25, "rating": 4.36, "ratings_count": 2400, "image": null, "url": null,
+   "platforms": ["PC", "PlayStation 5", "PlayStation 4", "Xbox Series S/X", "Xbox One", "Nintendo Switch", "macOS"],
+   "genres": ["Action", "Indie", "RPG"],
+   "tags": ["roguelike", "difficult", "singleplayer", "great-soundtrack", "story-rich", "isometric", "replay-value"]},
+
+  {"id": 4, "slug": "portal-2", "name": "Portal 2", "released": "2011-04-18", "metacritic": 95, "playtime": 11, "rating": 4.61, "ratings_count": 5400, "image": null, "url": null,
+   "platforms": ["PC", "PlayStation 3", "Xbox 360", "macOS", "Linux"],
+   "genres": ["Puzzle", "Shooter"],
+   "tags": ["puzzle", "co-op", "local-co-op", "split-screen", "funny", "first-person", "sci-fi", "short", "singleplayer"]},
+
+  {"id": 5, "slug": "celeste", "name": "Celeste", "released": "2018-01-25", "metacritic": 94, "playtime": 12, "rating": 4.32, "ratings_count": 1800, "image": null, "url": null,
+   "platforms": ["PC", "PlayStation 4", "Xbox One", "Nintendo Switch", "macOS", "Linux"],
+   "genres": ["Platformer", "Indie"],
+   "tags": ["difficult", "platformer", "pixel-graphics", "story-rich", "singleplayer", "great-soundtrack", "short", "2d"]},
+
+  {"id": 6, "slug": "disco-elysium", "name": "Disco Elysium", "released": "2019-10-15", "metacritic": 91, "playtime": 25, "rating": 4.32, "ratings_count": 1500, "image": null, "url": null,
+   "platforms": ["PC", "PlayStation 5", "PlayStation 4", "Xbox Series S/X", "Nintendo Switch", "macOS"],
+   "genres": ["RPG", "Indie"],
+   "tags": ["story-rich", "rpg", "choices-matter", "singleplayer", "atmospheric", "detective", "isometric", "dialogue"]},
+
+  {"id": 7, "slug": "hollow-knight", "name": "Hollow Knight", "released": "2017-02-24", "metacritic": 87, "playtime": 30, "rating": 4.4, "ratings_count": 2600, "image": null, "url": null,
+   "platforms": ["PC", "PlayStation 4", "Xbox One", "Nintendo Switch", "macOS", "Linux"],
+   "genres": ["Action", "Platformer", "Indie"],
+   "tags": ["difficult", "metroidvania", "atmospheric", "exploration", "platformer", "singleplayer", "2d", "great-soundtrack"]},
+
+  {"id": 8, "slug": "elden-ring", "name": "Elden Ring", "released": "2022-02-25", "metacritic": 94, "playtime": 60, "rating": 4.4, "ratings_count": 2200, "image": null, "url": null,
+   "platforms": ["PC", "PlayStation 5", "PlayStation 4", "Xbox Series S/X", "Xbox One"],
+   "genres": ["Action", "RPG"],
+   "tags": ["difficult", "souls-like", "open-world", "rpg", "atmospheric", "exploration", "online-co-op", "fantasy", "third-person"]},
+
+  {"id": 9, "slug": "overcooked-2", "name": "Overcooked! 2", "released": "2018-08-07", "metacritic": 81, "playtime": 9, "rating": 4.0, "ratings_count": 900, "image": null, "url": null,
+   "platforms": ["PC", "PlayStation 4", "Xbox One", "Nintendo Switch", "macOS", "Linux"],
+   "genres": ["Action", "Casual", "Indie"],
+   "tags": ["local-co-op", "co-op", "online-co-op", "local-multiplayer", "split-screen", "funny", "casual", "short", "family-friendly"]},
+
+  {"id": 10, "slug": "it-takes-two", "name": "It Takes Two", "released": "2021-03-26", "metacritic": 88, "playtime": 14, "rating": 4.3, "ratings_count": 1100, "image": null, "url": null,
+   "platforms": ["PC", "PlayStation 5", "PlayStation 4", "Xbox Series S/X", "Xbox One", "Nintendo Switch"],
+   "genres": ["Action", "Adventure", "Platformer"],
+   "tags": ["co-op", "local-co-op", "online-co-op", "split-screen", "story-rich", "platformer", "family-friendly", "third-person"]},
+
+  {"id": 11, "slug": "baldurs-gate-3", "name": "Baldur's Gate 3", "released": "2023-08-03", "metacritic": 96, "playtime": 100, "rating": 4.6, "ratings_count": 1900, "image": null, "url": null,
+   "platforms": ["PC", "PlayStation 5", "Xbox Series S/X", "macOS"],
+   "genres": ["RPG", "Strategy"],
+   "tags": ["rpg", "turn-based", "story-rich", "choices-matter", "co-op", "online-co-op", "tactical", "fantasy", "isometric"]},
+
+  {"id": 12, "slug": "slay-the-spire", "name": "Slay the Spire", "released": "2019-01-23", "metacritic": 89, "playtime": 30, "rating": 4.2, "ratings_count": 1200, "image": null, "url": null,
+   "platforms": ["PC", "PlayStation 4", "Xbox One", "Nintendo Switch", "iOS", "Android", "macOS", "Linux"],
+   "genres": ["Strategy", "Indie", "Card"],
+   "tags": ["roguelike", "turn-based", "difficult", "singleplayer", "strategy", "tactical", "replay-value", "deck-building"]},
+
+  {"id": 13, "slug": "red-dead-redemption-2", "name": "Red Dead Redemption 2", "released": "2018-10-26", "metacritic": 96, "playtime": 60, "rating": 4.59, "ratings_count": 4300, "image": null, "url": null,
+   "platforms": ["PC", "PlayStation 4", "Xbox One"],
+   "genres": ["Action", "Adventure"],
+   "tags": ["open-world", "story-rich", "atmospheric", "singleplayer", "third-person", "western", "exploration", "multiplayer"]},
+
+  {"id": 14, "slug": "animal-crossing-new-horizons", "name": "Animal Crossing: New Horizons", "released": "2020-03-20", "metacritic": 90, "playtime": 90, "rating": 4.2, "ratings_count": 700, "image": null, "url": null,
+   "platforms": ["Nintendo Switch"],
+   "genres": ["Simulation", "Casual", "Family"],
+   "tags": ["relaxing", "cozy", "casual", "sandbox", "building", "family-friendly", "multiplayer", "management"]},
+
+  {"id": 15, "slug": "resident-evil-4-remake", "name": "Resident Evil 4 (2023)", "released": "2023-03-24", "metacritic": 93, "playtime": 20, "rating": 4.5, "ratings_count": 800, "image": null, "url": null,
+   "platforms": ["PC", "PlayStation 5", "PlayStation 4", "Xbox Series S/X"],
+   "genres": ["Action", "Shooter"],
+   "tags": ["horror", "survival-horror", "singleplayer", "third-person", "shooter", "atmospheric", "difficult"]},
+
+  {"id": 16, "slug": "outer-wilds", "name": "Outer Wilds", "released": "2019-05-28", "metacritic": 85, "playtime": 20, "rating": 4.3, "ratings_count": 900, "image": null, "url": null,
+   "platforms": ["PC", "PlayStation 5", "PlayStation 4", "Xbox Series S/X", "Xbox One", "Nintendo Switch"],
+   "genres": ["Adventure", "Indie", "Puzzle"],
+   "tags": ["exploration", "puzzle", "atmospheric", "singleplayer", "sci-fi", "story-rich", "first-person", "space"]},
+
+  {"id": 17, "slug": "sid-meiers-civilization-vi", "name": "Sid Meier's Civilization VI", "released": "2016-10-21", "metacritic": 88, "playtime": 90, "rating": 4.1, "ratings_count": 1300, "image": null, "url": null,
+   "platforms": ["PC", "PlayStation 4", "Xbox One", "Nintendo Switch", "iOS", "Android", "macOS", "Linux"],
+   "genres": ["Strategy", "Simulation"],
+   "tags": ["strategy", "turn-based", "multiplayer", "singleplayer", "management", "tactical", "replay-value", "historical"]},
+
+  {"id": 18, "slug": "rocket-league", "name": "Rocket League", "released": "2015-07-07", "metacritic": 86, "playtime": 40, "rating": 3.9, "ratings_count": 2900, "image": null, "url": null,
+   "platforms": ["PC", "PlayStation 5", "PlayStation 4", "Xbox Series S/X", "Xbox One", "Nintendo Switch", "macOS", "Linux"],
+   "genres": ["Sports", "Racing", "Action"],
+   "tags": ["competitive", "pvp", "multiplayer", "local-multiplayer", "split-screen", "esports", "easy-to-learn", "online-co-op"]},
+
+  {"id": 19, "slug": "cuphead", "name": "Cuphead", "released": "2017-09-29", "metacritic": 86, "playtime": 15, "rating": 4.1, "ratings_count": 1400, "image": null, "url": null,
+   "platforms": ["PC", "PlayStation 4", "Xbox Series S/X", "Xbox One", "Nintendo Switch", "macOS"],
+   "genres": ["Action", "Platformer", "Indie"],
+   "tags": ["difficult", "platformer", "local-co-op", "co-op", "2d", "hand-drawn", "boss-rush", "great-soundtrack"]},
+
+  {"id": 20, "slug": "return-of-the-obra-dinn", "name": "Return of the Obra Dinn", "released": "2018-10-18", "metacritic": 89, "playtime": 8, "rating": 4.3, "ratings_count": 500, "image": null, "url": null,
+   "platforms": ["PC", "PlayStation 4", "Xbox One", "Nintendo Switch", "macOS"],
+   "genres": ["Puzzle", "Adventure", "Indie"],
+   "tags": ["puzzle", "detective", "singleplayer", "short", "atmospheric", "first-person", "story-rich", "mystery"]},
+
+  {"id": 21, "slug": "doom-eternal", "name": "Doom Eternal", "released": "2020-03-20", "metacritic": 88, "playtime": 20, "rating": 4.3, "ratings_count": 1600, "image": null, "url": null,
+   "platforms": ["PC", "PlayStation 5", "PlayStation 4", "Xbox Series S/X", "Xbox One", "Nintendo Switch"],
+   "genres": ["Action", "Shooter"],
+   "tags": ["shooter", "difficult", "first-person", "fast-paced", "singleplayer", "gore", "great-soundtrack", "multiplayer"]},
+
+  {"id": 22, "slug": "divinity-original-sin-2", "name": "Divinity: Original Sin 2", "released": "2017-09-14", "metacritic": 93, "playtime": 80, "rating": 4.5, "ratings_count": 1200, "image": null, "url": null,
+   "platforms": ["PC", "PlayStation 4", "Xbox One", "Nintendo Switch", "macOS"],
+   "genres": ["RPG", "Strategy"],
+   "tags": ["rpg", "turn-based", "co-op", "online-co-op", "tactical", "story-rich", "choices-matter", "fantasy", "isometric"]},
+
+  {"id": 23, "slug": "untitled-goose-game", "name": "Untitled Goose Game", "released": "2019-09-20", "metacritic": 81, "playtime": 5, "rating": 3.8, "ratings_count": 600, "image": null, "url": null,
+   "platforms": ["PC", "PlayStation 4", "Xbox One", "Nintendo Switch", "macOS"],
+   "genres": ["Puzzle", "Indie", "Casual"],
+   "tags": ["funny", "casual", "short", "puzzle", "local-co-op", "co-op", "relaxing", "family-friendly"]},
+
+  {"id": 24, "slug": "dead-cells", "name": "Dead Cells", "released": "2018-08-06", "metacritic": 89, "playtime": 30, "rating": 4.2, "ratings_count": 1500, "image": null, "url": null,
+   "platforms": ["PC", "PlayStation 4", "Xbox One", "Nintendo Switch", "iOS", "Android", "macOS", "Linux"],
+   "genres": ["Action", "Platformer", "Indie"],
+   "tags": ["roguelike", "difficult", "metroidvania", "pixel-graphics", "singleplayer", "fast-paced", "2d", "replay-value"]},
+
+  {"id": 25, "slug": "persona-5-royal", "name": "Persona 5 Royal", "released": "2020-03-31", "metacritic": 95, "playtime": 100, "rating": 4.6, "ratings_count": 700, "image": null, "url": null,
+   "platforms": ["PC", "PlayStation 5", "PlayStation 4", "Xbox Series S/X", "Nintendo Switch"],
+   "genres": ["RPG"],
+   "tags": ["rpg", "turn-based", "story-rich", "singleplayer", "anime", "great-soundtrack", "choices-matter", "jrpg"]},
+
+  {"id": 26, "slug": "sekiro-shadows-die-twice", "name": "Sekiro: Shadows Die Twice", "released": "2019-03-22", "metacritic": 90, "playtime": 35, "rating": 4.4, "ratings_count": 1700, "image": null, "url": null,
+   "platforms": ["PC", "PlayStation 4", "Xbox One"],
+   "genres": ["Action", "Adventure"],
+   "tags": ["difficult", "souls-like", "singleplayer", "third-person", "atmospheric", "stealth", "exploration"]},
+
+  {"id": 27, "slug": "monster-hunter-world", "name": "Monster Hunter: World", "released": "2018-01-26", "metacritic": 90, "playtime": 60, "rating": 4.1, "ratings_count": 1400, "image": null, "url": null,
+   "platforms": ["PC", "PlayStation 4", "Xbox One"],
+   "genres": ["Action", "RPG"],
+   "tags": ["co-op", "online-co-op", "difficult", "rpg", "multiplayer", "crafting", "third-person", "grinding"]},
+
+  {"id": 28, "slug": "firewatch", "name": "Firewatch", "released": "2016-02-09", "metacritic": 81, "playtime": 5, "rating": 3.9, "ratings_count": 2000, "image": null, "url": null,
+   "platforms": ["PC", "PlayStation 4", "Xbox One", "Nintendo Switch", "macOS", "Linux"],
+   "genres": ["Adventure", "Indie"],
+   "tags": ["story-rich", "atmospheric", "singleplayer", "short", "walking-simulator", "first-person", "relaxing", "exploration"]},
+
+  {"id": 29, "slug": "into-the-breach", "name": "Into the Breach", "released": "2018-02-27", "metacritic": 90, "playtime": 15, "rating": 4.0, "ratings_count": 500, "image": null, "url": null,
+   "platforms": ["PC", "Nintendo Switch", "iOS", "Android", "macOS", "Linux"],
+   "genres": ["Strategy", "Indie"],
+   "tags": ["strategy", "turn-based", "tactical", "roguelike", "difficult", "singleplayer", "short", "pixel-graphics"]},
+
+  {"id": 30, "slug": "tetris-effect", "name": "Tetris Effect: Connected", "released": "2018-11-09", "metacritic": 89, "playtime": 10, "rating": 4.2, "ratings_count": 300, "image": null, "url": null,
+   "platforms": ["PC", "PlayStation 5", "PlayStation 4", "Xbox Series S/X", "Xbox One", "Nintendo Switch"],
+   "genres": ["Puzzle", "Arcade", "Casual"],
+   "tags": ["relaxing", "puzzle", "casual", "great-soundtrack", "atmospheric", "multiplayer", "competitive", "short"]},
+
+  {"id": 31, "slug": "apex-legends", "name": "Apex Legends", "released": "2019-02-04", "metacritic": 88, "playtime": 50, "rating": 3.7, "ratings_count": 1300, "image": null, "url": null,
+   "platforms": ["PC", "PlayStation 5", "PlayStation 4", "Xbox Series S/X", "Xbox One", "Nintendo Switch"],
+   "genres": ["Action", "Shooter", "Massively Multiplayer"],
+   "tags": ["competitive", "pvp", "multiplayer", "shooter", "battle-royale", "free-to-play", "first-person", "online-co-op", "esports"]},
+
+  {"id": 32, "slug": "terraria", "name": "Terraria", "released": "2011-05-16", "metacritic": 83, "playtime": 90, "rating": 4.1, "ratings_count": 2100, "image": null, "url": null,
+   "platforms": ["PC", "PlayStation 4", "Xbox One", "Nintendo Switch", "iOS", "Android", "macOS", "Linux"],
+   "genres": ["Action", "Adventure", "Indie"],
+   "tags": ["sandbox", "crafting", "co-op", "online-co-op", "building", "pixel-graphics", "exploration", "2d", "multiplayer"]},
+
+  {"id": 33, "slug": "a-short-hike", "name": "A Short Hike", "released": "2019-07-30", "metacritic": 86, "playtime": 3, "rating": 4.3, "ratings_count": 300, "image": null, "url": null,
+   "platforms": ["PC", "PlayStation 5", "PlayStation 4", "Xbox Series S/X", "Xbox One", "Nintendo Switch", "macOS"],
+   "genres": ["Adventure", "Indie", "Casual"],
+   "tags": ["relaxing", "cozy", "short", "exploration", "casual", "singleplayer", "family-friendly", "atmospheric"]},
+
+  {"id": 34, "slug": "vampire-survivors", "name": "Vampire Survivors", "released": "2022-10-20", "metacritic": 87, "playtime": 20, "rating": 4.1, "ratings_count": 600, "image": null, "url": null,
+   "platforms": ["PC", "PlayStation 5", "PlayStation 4", "Xbox Series S/X", "Xbox One", "Nintendo Switch", "iOS", "Android", "macOS"],
+   "genres": ["Action", "Indie", "Casual"],
+   "tags": ["roguelike", "casual", "pixel-graphics", "singleplayer", "replay-value", "easy-to-learn", "2d", "local-co-op"]},
+
+  {"id": 35, "slug": "unpacking", "name": "Unpacking", "released": "2021-11-02", "metacritic": 82, "playtime": 4, "rating": 4.0, "ratings_count": 400, "image": null, "url": null,
+   "platforms": ["PC", "PlayStation 5", "PlayStation 4", "Xbox Series S/X", "Xbox One", "Nintendo Switch", "macOS"],
+   "genres": ["Puzzle", "Indie", "Casual"],
+   "tags": ["relaxing", "cozy", "puzzle", "short", "casual", "singleplayer", "story-rich", "pixel-graphics"]},
+
+  {"id": 36, "slug": "cult-of-the-lamb", "name": "Cult of the Lamb", "released": "2022-08-11", "metacritic": 82, "playtime": 20, "rating": 4.0, "ratings_count": 500, "image": null, "url": null,
+   "platforms": ["PC", "PlayStation 5", "PlayStation 4", "Xbox Series S/X", "Xbox One", "Nintendo Switch", "macOS"],
+   "genres": ["Action", "Indie", "Adventure"],
+   "tags": ["roguelike", "management", "building", "singleplayer", "dark-humour", "replay-value", "isometric"]},
+
+  {"id": 37, "slug": "forza-horizon-5", "name": "Forza Horizon 5", "released": "2021-11-09", "metacritic": 92, "playtime": 40, "rating": 4.4, "ratings_count": 900, "image": null, "url": null,
+   "platforms": ["PC", "Xbox Series S/X", "Xbox One"],
+   "genres": ["Racing", "Sports"],
+   "tags": ["open-world", "multiplayer", "online-co-op", "relaxing", "competitive", "great-soundtrack", "casual"]},
+
+  {"id": 38, "slug": "phasmophobia", "name": "Phasmophobia", "released": "2020-09-18", "metacritic": 79, "playtime": 25, "rating": 3.9, "ratings_count": 400, "image": null, "url": null,
+   "platforms": ["PC", "PlayStation 5", "Xbox Series S/X"],
+   "genres": ["Indie", "Adventure"],
+   "tags": ["horror", "co-op", "online-co-op", "multiplayer", "first-person", "atmospheric", "survival-horror"]},
+
+  {"id": 39, "slug": "the-legend-of-zelda-breath-of-the-wild", "name": "The Legend of Zelda: Breath of the Wild", "released": "2017-03-03", "metacritic": 97, "playtime": 60, "rating": 4.5, "ratings_count": 1500, "image": null, "url": null,
+   "platforms": ["Nintendo Switch", "Wii U"],
+   "genres": ["Action", "Adventure", "RPG"],
+   "tags": ["open-world", "exploration", "singleplayer", "atmospheric", "puzzle", "fantasy", "third-person", "sandbox"]},
+
+  {"id": 40, "slug": "chants-of-sennaar", "name": "Chants of Sennaar", "released": "2023-09-05", "metacritic": 85, "playtime": 10, "rating": 4.2, "ratings_count": 200, "image": null, "url": null,
+   "platforms": ["PC", "PlayStation 5", "Xbox Series S/X", "Nintendo Switch", "macOS"],
+   "genres": ["Puzzle", "Indie", "Adventure"],
+   "tags": ["puzzle", "relaxing", "singleplayer", "atmospheric", "short", "exploration", "story-rich"]}
+]
